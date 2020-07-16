@@ -1,42 +1,30 @@
 ### Hi there, 👋. 
  
-## I'm [Simeon Udoh](https://simicode.me).  🎉🎈 🎉🎈
+## I'm [Victor](https://vred.netlify.com).  🎉🎈 🎉🎈
 
 ### A bit about me...
 I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Computer Science student at Akwa-Ibom State University, currently self-learning web development. 
 #### 😄  Pronouns:
 <a href="#">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
   </a>
 
 <hr> 
 
 ### ⚡  Interests
 - Making the web accessible 🌎 
-- Bitcoin 💵 
-- Gaming 🎮 
-- Movies (Series) 📺 
+- Ethical Hacking 
+- Android App Development 
 
 ### 💬 Ask me about 
- CSS, Javascript and Vue. 
+ HTML, CSS, Javascript and Vue. 
 
-<!--
-**simeon4real/simeon4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <hr>
 
 ### 🌱 I’m currently learning
 
-Intermediate - Advanced Javascript and VueJS. 
+Intermediate - VueJS, express and React. 
 
 ### 👯 I’m looking to collaborate on: 
 Open Source web development projects (**Css**, **Javascript**, and **Vue**) 
@@ -44,22 +32,13 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 ---
 ### 📢 How to reach me
 <p align="center">
-  <a href="https://twitter.com/TechviberNG">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  <a href="https://twitter.com/ukokjnr">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/simeonudoh ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  <a href="https://wa.me/2348137249484 ">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/whatsapp.svg" alt="Whatsapp" style="vertical-align:top; margin:4px">
   </a>
-
-  <a href="https://wa.me/23481469533 ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/whatsapp.svg" alt="Whatsapp" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://t.me/Simeon4real ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
-  </a>
-
 
 </p>
 
@@ -68,19 +47,19 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 ### 🚧 I build with... ⛑
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/vscode.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/vscode.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/bash.svg" alt="Bash Terminal" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/bash.svg" alt="Bash Terminal" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/javascript.svg" alt="Javascript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/javascript.svg" alt="Javascript" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/vue.svg" alt="Vue JS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/vue.svg" alt="Vue JS" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
@@ -88,15 +67,15 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/chrome.svg" alt="Chrome browser" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/chrome.svg" alt="Chrome browser" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/firefox.svg" alt="Firefox" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/firefox.svg" alt="Firefox" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/npm.svg" alt="NPM package manager" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/npm.svg" alt="NPM package manager" style="vertical-align:top; margin:4px">
   </a>
 
 
