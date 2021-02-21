@@ -63,7 +63,7 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/victuk/master/badges/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
@@ -83,5 +83,5 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 
 
 
-[![Github stats by Anurag](https://github-readme-stats.vercel.app/api?username=simeon4real&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats by Anurag](https://github-readme-stats.vercel.app/api?username=victuk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
