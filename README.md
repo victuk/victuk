@@ -63,7 +63,7 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
   </a>
 
   <a href="# ">
-    <img src="https://raw.githubusercontent.com/simeon4real/victuk/master/badges/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/victuk/master/badges/html5.svg" alt="HTML5" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
