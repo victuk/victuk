@@ -1,6 +1,6 @@
 ### Hi there, 👋. 
  
-## I'm [Victor](https://vred.netlify.app).  🎉🎈 🎉🎈
+## I'm [Victor](https://victorukok.netlify.app).  🎉🎈 🎉🎈
 
 ### A bit about me...
 I'm from Akwa Ibom state but I live with my family in Calabar.  I'm a Computer Science student at Heritage Polytechnic, currently self-learning web development. 
@@ -17,14 +17,14 @@ I'm from Akwa Ibom state but I live with my family in Calabar.  I'm a Computer S
 - Android App Development 
 
 ### 💬 Ask me about 
- HTML, CSS, Javascript, Python, Django and VueJS. 
+ HTML, CSS, Javascript, Python, express, Django and VueJS. 
 
 
 <hr>
 
 ### 🌱 I’m currently learning
 
-Intermediate - Flutter. 
+Intermediate - Kotlin. 
 
 ### 👯 I’m looking to collaborate on: 
 Open Source web development projects (**Css**, **Javascript**, **Python/Django** and **Vue**) 
