@@ -3,7 +3,8 @@
 ## I'm [Victor](https://victorukok.netlify.app).  🎉🎈 🎉🎈
 
 ### A bit about me...
-I'm from Akwa Ibom state but I live with my family in Calabar.  I'm a Computer Science student at Heritage Polytechnic, currently self-learning web development. 
+I'm from Akwa Ibom state but I live with my family in Calabar.  I've written projects baed on NextJS, ExpressJS, Vue and Python(Flask and FastAPI).
+
 #### 😄  Pronouns:
 <a href="#">
     <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
@@ -24,10 +25,10 @@ I'm from Akwa Ibom state but I live with my family in Calabar.  I'm a Computer S
 
 ### 🌱 I’m currently learning
 
-Intermediate - Kotlin. 
+Intermediate - Flutter. 
 
 ### 👯 I’m looking to collaborate on: 
-Open Source web development projects (**Css**, **Javascript**, **Python/Django** and **Vue**) 
+Open Source web development projects (**React**, **Javascript**, **Python/Django** and **NextJS**) 
 
 ---
 ### 📢 How to reach me
