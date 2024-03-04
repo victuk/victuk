@@ -18,7 +18,7 @@ I'm from Akwa Ibom state but I live with my family in Calabar.  I've written pro
 - Android App Development 
 
 ### 💬 Ask me about 
- HTML, CSS, Javascript, Python, express, Django and VueJS. 
+ HTML, CSS, Javascript, Python, express, FastAPI and VueJS. 
 
 
 <hr>
@@ -28,12 +28,12 @@ I'm from Akwa Ibom state but I live with my family in Calabar.  I've written pro
 Intermediate - Flutter. 
 
 ### 👯 I’m looking to collaborate on: 
-Open Source web development projects (**React**, **Javascript**, **Python/Django** and **NextJS**) 
+Open Source web development projects (**React**, **Javascript**, **Python/FastAPI** and **NextJS**)
 
 ---
 ### 📢 How to reach me
 <p align="center">
-  <a href="https://twitter.com/ukokjnr">
+  <a href="https://twitter.com/veektor_v">
     <img src="https://raw.githubusercontent.com/victuk/victuk/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
