@@ -3,7 +3,7 @@
 ## I'm [Victor](https://victorukok.netlify.app).  🎉🎈 🎉🎈
 
 ### A bit about me...
-I'm from Akwa Ibom state but I live with my family in Calabar.  I've written projects baed on NextJS, ExpressJS, Vue and Python(Flask and FastAPI).
+I'm from Akwa Ibom state but I live with my family in Calabar.  I've written projects based on NextJS, ExpressJS, Vue and Python(Flask and FastAPI).
 
 #### 😄  Pronouns:
 <a href="#">
